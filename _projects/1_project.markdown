@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Malaria Diagnosis
-description: Which of the cell images showed above is infected by malaria? To find out see my CNN based approach by clicking <a href="https://github.com/NimaGozalpour/CNN-approach-for-malaria-diagnosis" target="\_blank" style="color:rgb(70, 101, 255);">here.
+description: Which of the cell images showed above is infected by malaria? To find out see my CNN based approach by clicking <a href="https://github.com/NimaGozalpour/CNN-approach-for-malaria-diagnosis" target="\_blank" style="color:rgb(70, 101, 255);">here</a>.
 img: /assets/img/Malaria.jpg
 redirect: https://github.com/NimaGozalpour/CNN-approach-for-malaria-diagnosis
 importance: 1
