@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: /assets/img/7.jpg
-redirect: https://unsplash.com
+title: Algorithms Course Assignments
+description: This repository contains five assignments of <a href="https://www.coursera.org/learn/algorithms-part1" target="\_blank" style="color:rgb(70, 101, 255);">Algorithms Part I</a> course presented on the <a href="https://www.coursera.org" target="\_blank" style="color:rgb(70, 101, 255);">Coursera</a> website.
+img: /assets/img/Algorithm.jpg
+redirect: https://github.com/NimaGozalpour/Algorithms-part1-assignments
 importance: 3
 ---
 

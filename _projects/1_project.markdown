@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
+title: Malaria Diagnosis
+description: Which of the cell images showed above is infected by malaria? To find out see my CNN based approach by clicking <a href="https://github.com/NimaGozalpour/CNN-approach-for-malaria-diagnosis" target="\_blank" style="color:rgb(70, 101, 255);">here.
+img: /assets/img/Malaria.jpg
+redirect: https://github.com/NimaGozalpour/CNN-approach-for-malaria-diagnosis
 importance: 1
 ---
 

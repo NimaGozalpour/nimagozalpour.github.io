@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: /assets/img/1.jpg
-importance: 3
+title: AI Plays Ping-Pong
+description: Genetic + neural-network-based reinforcement learning optimizes racket actions until a champion is born.
+img: /assets/img/pingpong.gif
+redirect: https://github.com/NimaGozalpour/AI-plays-Ping-Pong
+importance: 5
 ---
 
 Every project has a beautiful feature showcase page.

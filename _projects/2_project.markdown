@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: /assets/img/3.jpg
+title: Captcha Solver
+description: This project is developed in the Matlab program, and the cracked captcha was used in one of the main mobile operator's websites in the Middle East.
+img: /assets/img/captchaSolver.gif
+redirect: https://github.com/NimaGozalpour/captcha-solver
 importance: 2
 ---
 

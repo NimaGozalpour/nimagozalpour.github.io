@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
+title: ML Assignments
+description: This repository contains 7 MATLAB programming assignments of <a href="https://www.coursera.org/learn/machine-learning" target="\_blank" style="color:rgb(70, 101, 255);">The Machine Learning</a> course presented on the <a href="https://www.coursera.org" target="\_blank" style="color:rgb(70, 101, 255);">Coursera</a> website.
+img: /assets/img/MachineLearning.jpg
+redirect: https://github.com/NimaGozalpour/Coursera-Machine-Learing-assignments
+importance: 4
 ---
 
 Every project has a beautiful feature showcase page.
